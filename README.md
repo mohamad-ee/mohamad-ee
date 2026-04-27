@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamad Mashal
 
 🎓 Electrical Engineer with a specialization in Signal & Image Processing and Communication Systems  
-🔬 Skilled in MATLAB, C++, Python and hands-on engineering projects  
+🔬 Skilled in MATLAB, C++, C, Python and hands-on engineering projects  
 
 ## 🧠 Areas of Interest
 - Digital Signal Processing (DSP)
