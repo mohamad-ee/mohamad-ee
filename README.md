@@ -1,35 +1,32 @@
-# 👋 Hi, I'm Mohamad Mashal
+# Hi, I'm Mohamad Mashal
 
-Electrical & Electronics Engineering graduate focused on Embedded Linux, Firmware Development, and low-level systems programming.
+Electrical & Electronics Engineer focused on **Chip Design & Verification, Embedded Linux, and Firmware Development**.
 
-Experienced in Linux kernel driver development, debugging, hardware/software integration, and embedded systems projects.
+I'm currently studying **Chip Design and Verification at the Google & Reichman University AI & Tech School**. I'm also pursuing an **online, self-paced Embedded Systems training program at Real Time College**, alongside practical projects in Linux kernel development and signal processing.
 
-Passionate about firmware engineering, Linux environments, and building practical low-level systems.
+Interested in entry-level opportunities in digital design and verification, embedded firmware, and system integration. Open to relocation.
 
-## Areas of Interest
+## Featured work
 
-- Embedded Linux
-- Firmware Development
-- Linux Kernel Drivers
-- Low-Level Programming
-- Hardware/Software Integration
-- Networking & System Debugging
+| Project | What it demonstrates |
+| --- | --- |
+| [Chip Design & Verification Labs](chip-design-verification-labs/README.md) | SystemVerilog module hierarchy, behavioral and structural adders, directed testbenches, and a seven-segment FPGA controller. Includes source code, constraints, and lab reports. |
+| [Mini UART Linux Kernel Driver](https://github.com/mohamad-ee/mini-uart-driver) | A virtual UART-style character device with read/write, ioctl controls, a ring buffer, and /proc monitoring. |
+| [EEG Signal Classification](https://github.com/mohamad-ee/eeg-lstm-dsp) | B.Sc. final project exploring EEG classification with DSP, machine learning, and LSTM models. |
+| [Mobile Sensor Signal Analysis](https://github.com/mohamad-ee/Mobile-Sensor-Signal-Analysis) | MATLAB workflows for motion-sensor data, filtering, resampling, FFT analysis, and visualization. |
 
-## Technical Skills
+## Technical skills
 
-- C, C++, Python, MATLAB
-- Linux, Bash, Git, GitHub
-- Linux Kernel Modules, Character Devices, ioctl, /proc
-- GCC, Makefile, GDB
-- UART, Embedded Systems, Hardware/Software Integration
+- **Digital design:** Verilog, SystemVerilog, RTL, FPGA, Vivado, XSim, directed testbenches, and waveform analysis.
+- **Embedded and systems:** C, C++, Linux, Bash, kernel modules, character devices, ioctl, /proc, and hardware/software integration.
+- **Programming and analysis:** Python, MATLAB, signal processing, and debugging.
+- **Development tools:** VS Code, Git, GitHub, GCC, Make, and GDB.
+- **AI tools:** GitHub Copilot, Cursor, Claude Code, and ChatGPT.
 
-## Featured Projects
+## Education and training
 
-### mini-uart-driver
-Linux kernel character device driver with ioctl interface, ring buffer, and /proc monitoring.
+- **B.Sc. in Electrical & Electronics Engineering** — SCE Academic College of Engineering, 2024.
+- **Real Time Embedded Systems Engineering Program** — Real Time College, 2025–present. Online, self-paced studies; currently in progress.
+- **Chip Design and Verification** — Google & Reichman University AI & Tech School, June 2026–present.
 
-### eeg-lstm-dsp
-EEG signal classification using LSTM and DSP techniques.
-
-### Mobile-Sensor-Signal-Analysis
-Motion signal processing and real-time sensor analysis using MATLAB.
+[LinkedIn](https://www.linkedin.com/in/mohamad-mashal/)

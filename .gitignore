@@ -1,0 +1,35 @@
+# Vivado generated output directories
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Generated logs, databases, and waveforms
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg.bak
+*.vcd
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.pb
+*.rpx
+*.rpt
+
+# Local build output
+build/
+out/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Keep selected report files explicitly in docs/
+!**/docs/**/*.rpt
