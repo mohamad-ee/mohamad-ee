@@ -10,7 +10,7 @@ Interested in entry-level opportunities in digital design and verification, embe
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Chip Design & Verification Labs](chip-design-verification-labs/README.md) | SystemVerilog module hierarchy, behavioral and structural adders, directed testbenches, and a seven-segment FPGA controller. Includes source code, constraints, and lab reports. |
+| [Chip Design & Verification Labs](https://github.com/mohamad-ee/chip-design-verification-labs) | SystemVerilog module hierarchy, behavioral and structural adders, directed testbenches, and a seven-segment FPGA controller. Includes source code, constraints, and lab reports. |
 | [Mini UART Linux Kernel Driver](https://github.com/mohamad-ee/mini-uart-driver) | A virtual UART-style character device with read/write, ioctl controls, a ring buffer, and /proc monitoring. |
 | [EEG Signal Classification](https://github.com/mohamad-ee/eeg-lstm-dsp) | B.Sc. final project exploring EEG classification with DSP, machine learning, and LSTM models. |
 | [Mobile Sensor Signal Analysis](https://github.com/mohamad-ee/Mobile-Sensor-Signal-Analysis) | MATLAB workflows for motion-sensor data, filtering, resampling, FFT analysis, and visualization. |
